@@ -2,6 +2,7 @@ package com.klm.cases.df.locations.service;
 
 import com.klm.cases.df.locations.model.Location;
 import lombok.AllArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.hateoas.PagedModel;
 import org.springframework.http.ResponseEntity;
@@ -11,11 +12,13 @@ import org.springframework.web.reactive.function.client.WebClient;
 
 @Service
 @AllArgsConstructor
+@Slf4j
 public class LocationsService {
 
     private WebClient webClient;
 
     public ResponseEntity<PagedModel<Location>> getAllLocations(String lang, int page, int size) {
+        log.debug("LocationsService called to retrieve all locations");
         return webClient.get().uri(uriBuilder -> uriBuilder
                         .queryParam("lang", lang)
                         .queryParam("page", page)
