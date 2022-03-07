@@ -1,6 +1,6 @@
-package com.klm.cases.df.service.airport.locations;
+package com.klm.cases.df.locations.service;
 
-import com.klm.cases.df.model.airport.Location;
+import com.klm.cases.df.locations.model.Location;
 import lombok.AllArgsConstructor;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.hateoas.PagedModel;

@@ -1,4 +1,4 @@
-package com.klm.cases.df.model.airport;
+package com.klm.cases.df.locations.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,9 +1,9 @@
-package com.klm.cases.df.service.airport.locations;
+package com.klm.cases.df.locations.service;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.klm.cases.df.client.WebClientConfig;
-import com.klm.cases.df.model.airport.Location;
+import com.klm.cases.df.locations.model.Location;
 import okhttp3.mockwebserver.MockResponse;
 import okhttp3.mockwebserver.MockWebServer;
 import org.junit.jupiter.api.AfterEach;
