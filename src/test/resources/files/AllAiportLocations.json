@@ -1,0 +1,1798 @@
+[
+  {
+    "code": "BBA",
+    "name": "location.airport.BBA.long",
+    "description": "location.city.BBA.long - location.airport.BBA.long (BBA), Chile",
+    "coordinates": {
+      "latitude": -45.916389,
+      "longitude": -71.686944
+    },
+    "parent": {
+      "code": "BBA",
+      "name": "location.city.BBA.long",
+      "description": "location.city.BBA.long (BBA)",
+      "coordinates": {
+        "latitude": -45.916389,
+        "longitude": -71.686944
+      },
+      "parent": {
+        "code": "CL",
+        "name": "Chile",
+        "description": "Chile (CL)",
+        "coordinates": {
+          "latitude": -30.0,
+          "longitude": -71.0
+        },
+        "parent": {
+          "code": "CL",
+          "name": "Chile",
+          "description": "Chile (CL)",
+          "coordinates": {
+            "latitude": -30.0,
+            "longitude": -71.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YOW",
+    "name": "Ottawa International",
+    "description": "Ottawa - Ottawa International (YOW), Canada",
+    "coordinates": {
+      "latitude": 45.32083,
+      "longitude": -75.67278
+    },
+    "parent": {
+      "code": "YOW",
+      "name": "Ottawa",
+      "description": "Ottawa (YOW)",
+      "coordinates": {
+        "latitude": 45.33222,
+        "longitude": -75.68194
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "JRO",
+    "name": "Kilimanjaro International Airport",
+    "description": "Kilimanjaro - Kilimanjaro International Airport (JRO), Tanzania",
+    "coordinates": {
+      "latitude": -3.429444,
+      "longitude": 37.074444
+    },
+    "parent": {
+      "code": "JRO",
+      "name": "Kilimanjaro",
+      "description": "Kilimanjaro (JRO)",
+      "coordinates": {
+        "latitude": -2.92194,
+        "longitude": 37.32806
+      },
+      "parent": {
+        "code": "TZ",
+        "name": "Tanzania",
+        "description": "Tanzania (TZ)",
+        "coordinates": {
+          "latitude": -6.0,
+          "longitude": 35.0
+        },
+        "parent": {
+          "code": "TZ",
+          "name": "Tanzania",
+          "description": "Tanzania (TZ)",
+          "coordinates": {
+            "latitude": -6.0,
+            "longitude": 35.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "HNL",
+    "name": "Honolulu Intl.",
+    "description": "Honolulu - Honolulu Intl. (HNL), USA",
+    "coordinates": {
+      "latitude": 21.32583,
+      "longitude": -157.92167
+    },
+    "parent": {
+      "code": "HNL",
+      "name": "Honolulu",
+      "description": "Honolulu (HNL)",
+      "coordinates": {
+        "latitude": 21.33111,
+        "longitude": -157.93556
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "BBI",
+    "name": "Biju Patnaik Airport",
+    "description": "Bhubaneswar - Biju Patnaik Airport (BBI), India",
+    "coordinates": {
+      "latitude": 20.24361,
+      "longitude": 85.82
+    },
+    "parent": {
+      "code": "BBI",
+      "name": "Bhubaneswar",
+      "description": "Bhubaneswar (BBI)",
+      "coordinates": {
+        "latitude": 20.2425,
+        "longitude": 85.8175
+      },
+      "parent": {
+        "code": "IN",
+        "name": "India",
+        "description": "India (IN)",
+        "coordinates": {
+          "latitude": 20.0,
+          "longitude": 77.0
+        },
+        "parent": {
+          "code": "IN",
+          "name": "India",
+          "description": "India (IN)",
+          "coordinates": {
+            "latitude": 20.0,
+            "longitude": 77.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "WLG",
+    "name": "Wellington",
+    "description": "Wellington - Wellington (WLG), New Zealand",
+    "coordinates": {
+      "latitude": -41.32389,
+      "longitude": 174.80139
+    },
+    "parent": {
+      "code": "WLG",
+      "name": "Wellington",
+      "description": "Wellington (WLG)",
+      "coordinates": {
+        "latitude": -40.66833,
+        "longitude": 174.79778
+      },
+      "parent": {
+        "code": "NZ",
+        "name": "New Zealand",
+        "description": "New Zealand (NZ)",
+        "coordinates": {
+          "latitude": -41.0,
+          "longitude": 174.0
+        },
+        "parent": {
+          "code": "NZ",
+          "name": "New Zealand",
+          "description": "New Zealand (NZ)",
+          "coordinates": {
+            "latitude": -41.0,
+            "longitude": 174.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "DFW",
+    "name": "Fort Worth",
+    "description": "Dallas - Fort Worth (DFW), USA",
+    "coordinates": {
+      "latitude": 32.89444,
+      "longitude": -97.02972
+    },
+    "parent": {
+      "code": "DFW",
+      "name": "Dallas",
+      "description": "Dallas (DFW)",
+      "coordinates": {
+        "latitude": 32.67,
+        "longitude": -96.57194
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "SDF",
+    "name": "Louisville Intl.",
+    "description": "Louisville - Louisville Intl. (SDF), USA",
+    "coordinates": {
+      "latitude": 38.17972,
+      "longitude": -85.73861
+    },
+    "parent": {
+      "code": "SDF",
+      "name": "Louisville",
+      "description": "Louisville (SDF)",
+      "coordinates": {
+        "latitude": 38.18167,
+        "longitude": -85.73167
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "SDJ",
+    "name": "Sendai",
+    "description": "Sendai - Sendai (SDJ), Japan",
+    "coordinates": {
+      "latitude": 38.13556,
+      "longitude": 140.92389
+    },
+    "parent": {
+      "code": "SDJ",
+      "name": "Sendai",
+      "description": "Sendai (SDJ)",
+      "coordinates": {
+        "latitude": 31.82778,
+        "longitude": 130.27889
+      },
+      "parent": {
+        "code": "JP",
+        "name": "Japan",
+        "description": "Japan (JP)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": 138.0
+        },
+        "parent": {
+          "code": "JP",
+          "name": "Japan",
+          "description": "Japan (JP)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": 138.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YPR",
+    "name": "Prince Rupert",
+    "description": "Prince Rupert - Prince Rupert (YPR), Canada",
+    "coordinates": {
+      "latitude": 54.28722,
+      "longitude": -130.44083
+    },
+    "parent": {
+      "code": "YPR",
+      "name": "Prince Rupert",
+      "description": "Prince Rupert (YPR)",
+      "coordinates": {
+        "latitude": 54.28194,
+        "longitude": -130.45083
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "SDK",
+    "name": "Sandakan",
+    "description": "Sandakan - Sandakan (SDK), Malaysia",
+    "coordinates": {
+      "latitude": 5.9,
+      "longitude": 118.05972
+    },
+    "parent": {
+      "code": "SDK",
+      "name": "Sandakan",
+      "description": "Sandakan (SDK)",
+      "coordinates": {
+        "latitude": 5.90139,
+        "longitude": 118.05222
+      },
+      "parent": {
+        "code": "MY",
+        "name": "Malaysia",
+        "description": "Malaysia (MY)",
+        "coordinates": {
+          "latitude": 2.3,
+          "longitude": 112.3
+        },
+        "parent": {
+          "code": "MY",
+          "name": "Malaysia",
+          "description": "Malaysia (MY)",
+          "coordinates": {
+            "latitude": 2.3,
+            "longitude": 112.3
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "WLS",
+    "name": "Wallis Island",
+    "description": "Wallis Island - Wallis Island (WLS), Wallis and Futuna",
+    "coordinates": {
+      "latitude": -13.23333,
+      "longitude": -176.16667
+    },
+    "parent": {
+      "code": "WLS",
+      "name": "Wallis Island",
+      "description": "Wallis Island (WLS)",
+      "coordinates": {
+        "latitude": -13.29833,
+        "longitude": -176.16722
+      },
+      "parent": {
+        "code": "WF",
+        "name": "Wallis and Futuna",
+        "description": "Wallis and Futuna (WF)",
+        "coordinates": {
+          "latitude": -13.18,
+          "longitude": -176.12
+        },
+        "parent": {
+          "code": "WF",
+          "name": "Wallis and Futuna",
+          "description": "Wallis and Futuna (WF)",
+          "coordinates": {
+            "latitude": -13.18,
+            "longitude": -176.12
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "SDQ",
+    "name": "Las Americas",
+    "description": "Santo Domingo - Las Americas (SDQ), Dominican Republic",
+    "coordinates": {
+      "latitude": 18.42917,
+      "longitude": -69.66917
+    },
+    "parent": {
+      "code": "SDQ",
+      "name": "Santo Domingo",
+      "description": "Santo Domingo (SDQ)",
+      "coordinates": {
+        "latitude": 18.43194,
+        "longitude": -69.66583
+      },
+      "parent": {
+        "code": "DO",
+        "name": "Dominican Republic",
+        "description": "Dominican Republic (DO)",
+        "coordinates": {
+          "latitude": 19.0,
+          "longitude": -70.4
+        },
+        "parent": {
+          "code": "DO",
+          "name": "Dominican Republic",
+          "description": "Dominican Republic (DO)",
+          "coordinates": {
+            "latitude": 19.0,
+            "longitude": -70.4
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "LWO",
+    "name": "International",
+    "description": "Lviv - International (LWO), Ukraine",
+    "coordinates": {
+      "latitude": 49.81667,
+      "longitude": 23.85
+    },
+    "parent": {
+      "code": "LWO",
+      "name": "Lviv",
+      "description": "Lviv (LWO)",
+      "coordinates": {
+        "latitude": 49.81278,
+        "longitude": 23.94944
+      },
+      "parent": {
+        "code": "UA",
+        "name": "Ukraine",
+        "description": "Ukraine (UA)",
+        "coordinates": {
+          "latitude": 49.0,
+          "longitude": 32.0
+        },
+        "parent": {
+          "code": "UA",
+          "name": "Ukraine",
+          "description": "Ukraine (UA)",
+          "coordinates": {
+            "latitude": 49.0,
+            "longitude": 32.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "SDU",
+    "name": "Santos Dumont Airport",
+    "description": "Rio de Janeiro - Santos Dumont Airport (SDU), Brazil",
+    "coordinates": {
+      "latitude": -22.9,
+      "longitude": -43.16667
+    },
+    "parent": {
+      "code": "RIO",
+      "name": "Rio de Janeiro",
+      "description": "Rio de Janeiro (RIO)",
+      "coordinates": {
+        "latitude": -22.88389,
+        "longitude": -43.28111
+      },
+      "parent": {
+        "code": "BR",
+        "name": "Brazil",
+        "description": "Brazil (BR)",
+        "coordinates": {
+          "latitude": -10.0,
+          "longitude": -55.0
+        },
+        "parent": {
+          "code": "BR",
+          "name": "Brazil",
+          "description": "Brazil (BR)",
+          "coordinates": {
+            "latitude": -10.0,
+            "longitude": -55.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "LWS",
+    "name": "Nez Perce County Regional",
+    "description": "Lewiston - Nez Perce County Regional (LWS), USA",
+    "coordinates": {
+      "latitude": 46.37472,
+      "longitude": -117.01444
+    },
+    "parent": {
+      "code": "LWS",
+      "name": "Lewiston",
+      "description": "Lewiston (LWS)",
+      "coordinates": {
+        "latitude": 45.9625,
+        "longitude": -116.99778
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YQB",
+    "name": "Quebec",
+    "description": "Quebec - Quebec (YQB), Canada",
+    "coordinates": {
+      "latitude": 46.78917,
+      "longitude": -71.39806
+    },
+    "parent": {
+      "code": "YQB",
+      "name": "Quebec",
+      "description": "Quebec (YQB)",
+      "coordinates": {
+        "latitude": 46.79917,
+        "longitude": -71.38472
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "BCN",
+    "name": "Barcelona",
+    "description": "Barcelona - Barcelona (BCN), Spain",
+    "coordinates": {
+      "latitude": 41.29694,
+      "longitude": 2.07833
+    },
+    "parent": {
+      "code": "BCN",
+      "name": "Barcelona",
+      "description": "Barcelona (BCN)",
+      "coordinates": {
+        "latitude": 41.29861,
+        "longitude": 2.08556
+      },
+      "parent": {
+        "code": "ES",
+        "name": "Spain",
+        "description": "Spain (ES)",
+        "coordinates": {
+          "latitude": 40.0,
+          "longitude": -4.0
+        },
+        "parent": {
+          "code": "ES",
+          "name": "Spain",
+          "description": "Spain (ES)",
+          "coordinates": {
+            "latitude": 40.0,
+            "longitude": -4.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "DGO",
+    "name": "Guadalupe Victoria",
+    "description": "Durango - Guadalupe Victoria (DGO), Mexico",
+    "coordinates": {
+      "latitude": 24.125,
+      "longitude": -104.525
+    },
+    "parent": {
+      "code": "DGO",
+      "name": "Durango",
+      "description": "Durango (DGO)",
+      "coordinates": {
+        "latitude": 24.00111,
+        "longitude": -104.66778
+      },
+      "parent": {
+        "code": "MX",
+        "name": "Mexico",
+        "description": "Mexico (MX)",
+        "coordinates": {
+          "latitude": 23.0,
+          "longitude": -102.0
+        },
+        "parent": {
+          "code": "MX",
+          "name": "Mexico",
+          "description": "Mexico (MX)",
+          "coordinates": {
+            "latitude": 23.0,
+            "longitude": -102.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "SEA",
+    "name": "Seattle Tacoma",
+    "description": "Seattle - Seattle Tacoma (SEA), USA",
+    "coordinates": {
+      "latitude": 47.44722,
+      "longitude": -122.30556
+    },
+    "parent": {
+      "code": "SEA",
+      "name": "Seattle",
+      "description": "Seattle (SEA)",
+      "coordinates": {
+        "latitude": 47.5325,
+        "longitude": -122.29778
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YQG",
+    "name": "Quebec",
+    "description": "Windsor - Quebec (YQG), Canada",
+    "coordinates": {
+      "latitude": 42.27417,
+      "longitude": -82.96389
+    },
+    "parent": {
+      "code": "YQG",
+      "name": "Windsor",
+      "description": "Windsor (YQG)",
+      "coordinates": {
+        "latitude": 42.26694,
+        "longitude": -82.96417
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "HOU",
+    "name": "Houston",
+    "description": "Houston - Houston (HOU), USA",
+    "parent": {
+      "code": "HOU",
+      "name": "Houston",
+      "description": "Houston (HOU)",
+      "coordinates": {
+        "latitude": 29.65056,
+        "longitude": -95.28278
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "LXA",
+    "name": "Lhasa",
+    "description": "Lhasa - Lhasa (LXA), China",
+    "coordinates": {
+      "latitude": 29.66667,
+      "longitude": 91.15
+    },
+    "parent": {
+      "code": "LXA",
+      "name": "Lhasa",
+      "description": "Lhasa (LXA)",
+      "coordinates": {
+        "latitude": 29.64472,
+        "longitude": 91.09444
+      },
+      "parent": {
+        "code": "CN",
+        "name": "China",
+        "description": "China (CN)",
+        "coordinates": {
+          "latitude": 35.0,
+          "longitude": 105.0
+        },
+        "parent": {
+          "code": "CN",
+          "name": "China",
+          "description": "China (CN)",
+          "coordinates": {
+            "latitude": 35.0,
+            "longitude": 105.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YQM",
+    "name": "Greater Moncton",
+    "description": "Moncton - Greater Moncton (YQM), Canada",
+    "coordinates": {
+      "latitude": 46.116174,
+      "longitude": -64.688776
+    },
+    "parent": {
+      "code": "YQM",
+      "name": "Moncton",
+      "description": "Moncton (YQM)",
+      "coordinates": {
+        "latitude": 46.115833,
+        "longitude": -64.803056
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YQL",
+    "name": "Lethbridge",
+    "description": "Lethbridge - Lethbridge (YQL), Canada",
+    "coordinates": {
+      "latitude": 49.63194,
+      "longitude": -112.79167
+    },
+    "parent": {
+      "code": "YQL",
+      "name": "Lethbridge",
+      "description": "Lethbridge (YQL)",
+      "coordinates": {
+        "latitude": 49.63528,
+        "longitude": -112.79806
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YQQ",
+    "name": "Comox",
+    "description": "Comox - Comox (YQQ), Canada",
+    "coordinates": {
+      "latitude": 49.71667,
+      "longitude": -124.89333
+    },
+    "parent": {
+      "code": "YQQ",
+      "name": "Comox",
+      "description": "Comox (YQQ)",
+      "coordinates": {
+        "latitude": 49.71528,
+        "longitude": -124.89333
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "UIO",
+    "name": "Mariscal Sucre Airport",
+    "description": "Quito - Mariscal Sucre Airport (UIO), Ecuador",
+    "coordinates": {
+      "latitude": -0.1133,
+      "longitude": -78.3586
+    },
+    "parent": {
+      "code": "UIO",
+      "name": "Quito",
+      "description": "Quito (UIO)",
+      "coordinates": {
+        "latitude": -0.13167,
+        "longitude": -78.48361
+      },
+      "parent": {
+        "code": "EC",
+        "name": "Ecuador",
+        "description": "Ecuador (EC)",
+        "coordinates": {
+          "latitude": -2.0,
+          "longitude": -77.3
+        },
+        "parent": {
+          "code": "EC",
+          "name": "Ecuador",
+          "description": "Ecuador (EC)",
+          "coordinates": {
+            "latitude": -2.0,
+            "longitude": -77.3
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YQR",
+    "name": "Regina",
+    "description": "Regina - Regina (YQR), Canada",
+    "coordinates": {
+      "latitude": 50.43333,
+      "longitude": -104.65333
+    },
+    "parent": {
+      "code": "YQR",
+      "name": "Regina",
+      "description": "Regina (YQR)",
+      "coordinates": {
+        "latitude": 50.43167,
+        "longitude": -104.66778
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YQU",
+    "name": "Grande Prairie",
+    "description": "Grande Prairie - Grande Prairie (YQU), Canada",
+    "coordinates": {
+      "latitude": 55.1015,
+      "longitude": -118.4741
+    },
+    "parent": {
+      "code": "YQU",
+      "name": "Grande Prairie",
+      "description": "Grande Prairie (YQU)",
+      "coordinates": {
+        "latitude": 55.1015,
+        "longitude": -118.4741
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "UIP",
+    "name": "Pluguffan",
+    "description": "Quimper - Pluguffan (UIP), France",
+    "coordinates": {
+      "latitude": 47.97444,
+      "longitude": -4.17083
+    },
+    "parent": {
+      "code": "UIP",
+      "name": "Quimper",
+      "description": "Quimper (UIP)",
+      "coordinates": {
+        "latitude": 47.96778,
+        "longitude": -4.16528
+      },
+      "parent": {
+        "code": "FR",
+        "name": "France",
+        "description": "France (FR)",
+        "coordinates": {
+          "latitude": 46.0,
+          "longitude": 2.0
+        },
+        "parent": {
+          "code": "FR",
+          "name": "France",
+          "description": "France (FR)",
+          "coordinates": {
+            "latitude": 46.0,
+            "longitude": 2.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "YQT",
+    "name": "Thunder Bay",
+    "description": "Thunder Bay - Thunder Bay (YQT), Canada",
+    "coordinates": {
+      "latitude": 48.38333,
+      "longitude": -89.25
+    },
+    "parent": {
+      "code": "YQT",
+      "name": "Thunder Bay",
+      "description": "Thunder Bay (YQT)",
+      "coordinates": {
+        "latitude": 48.36889,
+        "longitude": -89.31833
+      },
+      "parent": {
+        "code": "CA",
+        "name": "Canada",
+        "description": "Canada (CA)",
+        "coordinates": {
+          "latitude": 55.0,
+          "longitude": -104.0
+        },
+        "parent": {
+          "code": "CA",
+          "name": "Canada",
+          "description": "Canada (CA)",
+          "coordinates": {
+            "latitude": 55.0,
+            "longitude": -104.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "BDA",
+    "name": "Bermuda",
+    "description": "Bermuda - Bermuda (BDA), Bermuda",
+    "coordinates": {
+      "latitude": 32.36528,
+      "longitude": -64.69
+    },
+    "parent": {
+      "code": "BDA",
+      "name": "Bermuda",
+      "description": "Bermuda (BDA)",
+      "coordinates": {
+        "latitude": 32.36611,
+        "longitude": -64.68111
+      },
+      "parent": {
+        "code": "BM",
+        "name": "Bermuda",
+        "description": "Bermuda (BM)",
+        "coordinates": {
+          "latitude": 32.2,
+          "longitude": -64.45
+        },
+        "parent": {
+          "code": "BM",
+          "name": "Bermuda",
+          "description": "Bermuda (BM)",
+          "coordinates": {
+            "latitude": 32.2,
+            "longitude": -64.45
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "HPH",
+    "name": "Catbi",
+    "description": "Haiphong - Catbi (HPH), Vietnam",
+    "coordinates": {
+      "latitude": 20.81667,
+      "longitude": 106.56667
+    },
+    "parent": {
+      "code": "HPH",
+      "name": "Haiphong",
+      "description": "Haiphong (HPH)",
+      "coordinates": {
+        "latitude": 20.8325,
+        "longitude": 106.68472
+      },
+      "parent": {
+        "code": "VN",
+        "name": "Vietnam",
+        "description": "Vietnam (VN)",
+        "coordinates": {
+          "latitude": 16.1,
+          "longitude": 107.5
+        },
+        "parent": {
+          "code": "VN",
+          "name": "Vietnam",
+          "description": "Vietnam (VN)",
+          "coordinates": {
+            "latitude": 16.1,
+            "longitude": 107.5
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "QAR",
+    "name": "Arnhem",
+    "description": "Arnhem - Arnhem (QAR), Netherlands",
+    "coordinates": {
+      "latitude": 51.984722,
+      "longitude": 5.900833
+    },
+    "parent": {
+      "code": "ZYM",
+      "name": "Arnhem",
+      "description": "Arnhem (ZYM)",
+      "coordinates": {
+        "latitude": 51.983333,
+        "longitude": 5.916667
+      },
+      "parent": {
+        "code": "NL",
+        "name": "Netherlands",
+        "description": "Netherlands (NL)",
+        "coordinates": {
+          "latitude": 52.3,
+          "longitude": 5.45
+        },
+        "parent": {
+          "code": "NL",
+          "name": "Netherlands",
+          "description": "Netherlands (NL)",
+          "coordinates": {
+            "latitude": 52.3,
+            "longitude": 5.45
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "FLL",
+    "name": "Fort Lauderdale Intl.",
+    "description": "Fort Lauderdale - Fort Lauderdale Intl. (FLL), USA",
+    "coordinates": {
+      "latitude": 26.07417,
+      "longitude": -80.15167
+    },
+    "parent": {
+      "code": "FLL",
+      "name": "Fort Lauderdale",
+      "description": "Fort Lauderdale (FLL)",
+      "coordinates": {
+        "latitude": 26.06361,
+        "longitude": -80.16806
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "HPN",
+    "name": "Westchester County",
+    "description": "White Plains - Westchester County (HPN), USA",
+    "coordinates": {
+      "latitude": 41.06889,
+      "longitude": -73.70778
+    },
+    "parent": {
+      "code": "HPN",
+      "name": "White Plains",
+      "description": "White Plains (HPN)",
+      "coordinates": {
+        "latitude": 41.06361,
+        "longitude": -73.69944
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "FLO",
+    "name": "Florence",
+    "description": "Florence - Florence (FLO), USA",
+    "coordinates": {
+      "latitude": 34.18889,
+      "longitude": -79.72444
+    },
+    "parent": {
+      "code": "FLO",
+      "name": "Florence",
+      "description": "Florence (FLO)",
+      "coordinates": {
+        "latitude": 34.1825,
+        "longitude": -79.71556
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "BDJ",
+    "name": "Sjamsudin Noor",
+    "description": "Banjarmasin - Sjamsudin Noor (BDJ), Indonesia",
+    "coordinates": {
+      "latitude": -3.46667,
+      "longitude": 114.75
+    },
+    "parent": {
+      "code": "BDJ",
+      "name": "Banjarmasin",
+      "description": "Banjarmasin (BDJ)",
+      "coordinates": {
+        "latitude": -3.44917,
+        "longitude": 114.75194
+      },
+      "parent": {
+        "code": "ID",
+        "name": "Indonesia",
+        "description": "Indonesia (ID)",
+        "coordinates": {
+          "latitude": -5.0,
+          "longitude": 120.0
+        },
+        "parent": {
+          "code": "ID",
+          "name": "Indonesia",
+          "description": "Indonesia (ID)",
+          "coordinates": {
+            "latitude": -5.0,
+            "longitude": 120.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "FLN",
+    "name": "Hercilio Luz",
+    "description": "Florianopolis - Hercilio Luz (FLN), Brazil",
+    "coordinates": {
+      "latitude": -27.66972,
+      "longitude": -48.55056
+    },
+    "parent": {
+      "code": "FLN",
+      "name": "Florianopolis",
+      "description": "Florianopolis (FLN)",
+      "coordinates": {
+        "latitude": -27.66806,
+        "longitude": -48.55222
+      },
+      "parent": {
+        "code": "BR",
+        "name": "Brazil",
+        "description": "Brazil (BR)",
+        "coordinates": {
+          "latitude": -10.0,
+          "longitude": -55.0
+        },
+        "parent": {
+          "code": "BR",
+          "name": "Brazil",
+          "description": "Brazil (BR)",
+          "coordinates": {
+            "latitude": -10.0,
+            "longitude": -55.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "JTR",
+    "name": "Santorini",
+    "description": "Thira - Santorini (JTR), Greece",
+    "coordinates": {
+      "latitude": 36.39917,
+      "longitude": 25.47944
+    },
+    "parent": {
+      "code": "JTR",
+      "name": "Thira",
+      "description": "Thira (JTR)",
+      "coordinates": {
+        "latitude": 36.35417,
+        "longitude": 25.46778
+      },
+      "parent": {
+        "code": "GR",
+        "name": "Greece",
+        "description": "Greece (GR)",
+        "coordinates": {
+          "latitude": 39.0,
+          "longitude": 22.0
+        },
+        "parent": {
+          "code": "GR",
+          "name": "Greece",
+          "description": "Greece (GR)",
+          "coordinates": {
+            "latitude": 39.0,
+            "longitude": 22.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "SEZ",
+    "name": "Seychelles Intl.",
+    "description": "Seychelles - Seychelles Intl. (SEZ), Seychelles",
+    "coordinates": {
+      "latitude": -4.674344,
+      "longitude": 55.521853
+    },
+    "parent": {
+      "code": "SEZ",
+      "name": "Seychelles",
+      "description": "Seychelles (SEZ)",
+      "coordinates": {
+        "latitude": -4.6167,
+        "longitude": 55.45
+      },
+      "parent": {
+        "code": "SC",
+        "name": "Seychelles",
+        "description": "Seychelles (SC)",
+        "coordinates": {
+          "latitude": -4.35,
+          "longitude": 55.4
+        },
+        "parent": {
+          "code": "SC",
+          "name": "Seychelles",
+          "description": "Seychelles (SC)",
+          "coordinates": {
+            "latitude": -4.35,
+            "longitude": 55.4
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "BDL",
+    "name": "Bradley International",
+    "description": "Hartford/Springfield - Bradley International (BDL), USA",
+    "coordinates": {
+      "latitude": 41.93861,
+      "longitude": -72.68333
+    },
+    "parent": {
+      "code": "HFD",
+      "name": "Hartford/Springfield",
+      "description": "Hartford/Springfield (HFD)",
+      "coordinates": {
+        "latitude": 41.72833,
+        "longitude": -72.64528
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "DHN",
+    "name": "Dothan Regional Airport",
+    "description": "Dothan - Dothan Regional Airport (DHN), USA",
+    "coordinates": {
+      "latitude": 31.32,
+      "longitude": -85.44833
+    },
+    "parent": {
+      "code": "DHN",
+      "name": "Dothan",
+      "description": "Dothan (DHN)",
+      "coordinates": {
+        "latitude": 31.23167,
+        "longitude": -85.45083
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "FLR",
+    "name": "Peretola",
+    "description": "Florence - Peretola (FLR), Italy",
+    "coordinates": {
+      "latitude": 43.80861,
+      "longitude": 11.20278
+    },
+    "parent": {
+      "code": "FLR",
+      "name": "Florence",
+      "description": "Florence (FLR)",
+      "coordinates": {
+        "latitude": 43.81389,
+        "longitude": 11.20111
+      },
+      "parent": {
+        "code": "IT",
+        "name": "Italy",
+        "description": "Italy (IT)",
+        "coordinates": {
+          "latitude": 42.5,
+          "longitude": 12.5
+        },
+        "parent": {
+          "code": "IT",
+          "name": "Italy",
+          "description": "Italy (IT)",
+          "coordinates": {
+            "latitude": 42.5,
+            "longitude": 12.5
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "BDQ",
+    "name": "Vadodara",
+    "description": "Vadodara - Vadodara (BDQ), India",
+    "coordinates": {
+      "latitude": 22.32917,
+      "longitude": 73.22083
+    },
+    "parent": {
+      "code": "BDQ",
+      "name": "Vadodara",
+      "description": "Vadodara (BDQ)",
+      "coordinates": {
+        "latitude": 22.29944,
+        "longitude": 74.22667
+      },
+      "parent": {
+        "code": "IN",
+        "name": "India",
+        "description": "India (IN)",
+        "coordinates": {
+          "latitude": 20.0,
+          "longitude": 77.0
+        },
+        "parent": {
+          "code": "IN",
+          "name": "India",
+          "description": "India (IN)",
+          "coordinates": {
+            "latitude": 20.0,
+            "longitude": 77.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "BDS",
+    "name": "Papola Casale",
+    "description": "Brindisi - Papola Casale (BDS), Italy",
+    "coordinates": {
+      "latitude": 40.66056,
+      "longitude": 17.94806
+    },
+    "parent": {
+      "code": "BDS",
+      "name": "Brindisi",
+      "description": "Brindisi (BDS)",
+      "coordinates": {
+        "latitude": 40.65111,
+        "longitude": 17.95056
+      },
+      "parent": {
+        "code": "IT",
+        "name": "Italy",
+        "description": "Italy (IT)",
+        "coordinates": {
+          "latitude": 42.5,
+          "longitude": 12.5
+        },
+        "parent": {
+          "code": "IT",
+          "name": "Italy",
+          "description": "Italy (IT)",
+          "coordinates": {
+            "latitude": 42.5,
+            "longitude": 12.5
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "LYA",
+    "name": "Beijiao",
+    "description": "Luoyang - Beijiao (LYA), China",
+    "coordinates": {
+      "latitude": 34.741111,
+      "longitude": 112.388333
+    },
+    "parent": {
+      "code": "LYA",
+      "name": "Luoyang",
+      "description": "Luoyang (LYA)",
+      "coordinates": {
+        "latitude": 34.669722,
+        "longitude": 112.442222
+      },
+      "parent": {
+        "code": "CN",
+        "name": "China",
+        "description": "China (CN)",
+        "coordinates": {
+          "latitude": 35.0,
+          "longitude": 105.0
+        },
+        "parent": {
+          "code": "CN",
+          "name": "China",
+          "description": "China (CN)",
+          "coordinates": {
+            "latitude": 35.0,
+            "longitude": 105.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "JUB",
+    "name": "Juba",
+    "description": "Juba - Juba (JUB), South Sudan",
+    "coordinates": {
+      "latitude": 4.87056,
+      "longitude": 31.60389
+    },
+    "parent": {
+      "code": "JUB",
+      "name": "Juba",
+      "description": "Juba (JUB)",
+      "coordinates": {
+        "latitude": 4.94444,
+        "longitude": 31.58139
+      },
+      "parent": {
+        "code": "SS",
+        "name": "South Sudan",
+        "description": "South Sudan (SS)",
+        "coordinates": {
+          "latitude": 8.0,
+          "longitude": 30.0
+        },
+        "parent": {
+          "code": "SS",
+          "name": "South Sudan",
+          "description": "South Sudan (SS)",
+          "coordinates": {
+            "latitude": 8.0,
+            "longitude": 30.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "LYC",
+    "name": "location.airport.LYC.long",
+    "description": "location.city.LYC.long - location.airport.LYC.long (LYC), Sweden",
+    "coordinates": {
+      "latitude": 64.592418,
+      "longitude": 18.688387
+    },
+    "parent": {
+      "code": "LYC",
+      "name": "location.city.LYC.long",
+      "description": "location.city.LYC.long (LYC)",
+      "coordinates": {
+        "latitude": 64.592418,
+        "longitude": 18.688387
+      },
+      "parent": {
+        "code": "SE",
+        "name": "Sweden",
+        "description": "Sweden (SE)",
+        "coordinates": {
+          "latitude": 62.0,
+          "longitude": 15.0
+        },
+        "parent": {
+          "code": "SE",
+          "name": "Sweden",
+          "description": "Sweden (SE)",
+          "coordinates": {
+            "latitude": 62.0,
+            "longitude": 15.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "LYH",
+    "name": "Preston Glenn",
+    "description": "Lynchburg - Preston Glenn (LYH), USA",
+    "coordinates": {
+      "latitude": 37.32694,
+      "longitude": -79.20111
+    },
+    "parent": {
+      "code": "LYH",
+      "name": "Lynchburg",
+      "description": "Lynchburg (LYH)",
+      "coordinates": {
+        "latitude": 37.41375,
+        "longitude": -79.14224
+      },
+      "parent": {
+        "code": "US",
+        "name": "USA",
+        "description": "USA (US)",
+        "coordinates": {
+          "latitude": 36.0,
+          "longitude": -100.0
+        },
+        "parent": {
+          "code": "US",
+          "name": "USA",
+          "description": "USA (US)",
+          "coordinates": {
+            "latitude": 36.0,
+            "longitude": -100.0
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "code": "AAL",
+  "name": "Aalborg",
+  "description": "Aalborg - Aalborg (AAL), Denmark",
+  "coordinates": {
+    "latitude": 57.09306,
+    "longitude": 9.85
+  },
+  "parent": {
+    "code": "AAL",
+    "name": "Aalborg",
+    "description": "Aalborg (AAL)",
+    "coordinates": {
+      "latitude": 57.08944,
+      "longitude": 9.84889
+    },
+    "parent": {
+      "code": "DK",
+      "name": "Denmark",
+      "description": "Denmark (DK)",
+      "coordinates": {
+        "latitude": 56.0,
+        "longitude": 10.0
+      },
+      "parent": {
+        "code": "DK",
+        "name": "Denmark",
+        "description": "Denmark (DK)",
+        "coordinates": {
+          "latitude": 56.0,
+          "longitude": 10.0
+        }
+      }
+    }
+  }
+}

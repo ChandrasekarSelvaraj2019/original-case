@@ -1,0 +1,142 @@
+[
+  {
+    "code": "BDJ",
+    "name": "Sjamsudin Noor",
+    "description": "Banjarmasin - Sjamsudin Noor (BDJ), Indonesia",
+    "coordinates": {
+      "latitude": -3.46667,
+      "longitude": 114.75
+    },
+    "parent": {
+      "code": "BDJ",
+      "name": "Banjarmasin",
+      "description": "Banjarmasin (BDJ)",
+      "coordinates": {
+        "latitude": -3.44917,
+        "longitude": 114.75194
+      },
+      "parent": {
+        "code": "ID",
+        "name": "Indonesia",
+        "description": "Indonesia (ID)",
+        "coordinates": {
+          "latitude": -5.0,
+          "longitude": 120.0
+        },
+        "parent": {
+          "code": "ID",
+          "name": "Indonesia",
+          "description": "Indonesia (ID)",
+          "coordinates": {
+            "latitude": -5.0,
+            "longitude": 120.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "HYD",
+    "name": "Shamshabad Rajiv Gandhi Intl.",
+    "description": "Hyderabad - Shamshabad Rajiv Gandhi Intl. (HYD), India",
+    "coordinates": {
+      "latitude": 17.26028,
+      "longitude": 78.39694
+    },
+    "parent": {
+      "code": "HYD",
+      "name": "Hyderabad",
+      "description": "Hyderabad (HYD)",
+      "coordinates": {
+        "latitude": 17.25167,
+        "longitude": 78.415
+      },
+      "parent": {
+        "code": "IN",
+        "name": "India",
+        "description": "India (IN)",
+        "coordinates": {
+          "latitude": 20.0,
+          "longitude": 77.0
+        },
+        "parent": {
+          "code": "IN",
+          "name": "India",
+          "description": "India (IN)",
+          "coordinates": {
+            "latitude": 20.0,
+            "longitude": 77.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "SZF",
+    "name": "Carsamba Airport",
+    "description": "Samsun - Carsamba Airport (SZF), Turkey",
+    "coordinates": {
+      "latitude": 41.257,
+      "longitude": 36.555
+    },
+    "parent": {
+      "code": "SZF",
+      "name": "Samsun",
+      "description": "Samsun (SZF)",
+      "parent": {
+        "code": "TR",
+        "name": "Turkey",
+        "description": "Turkey (TR)",
+        "coordinates": {
+          "latitude": 39.0,
+          "longitude": 35.0
+        },
+        "parent": {
+          "code": "TR",
+          "name": "Turkey",
+          "description": "Turkey (TR)",
+          "coordinates": {
+            "latitude": 39.0,
+            "longitude": 35.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "code": "AMS",
+    "name": "Schiphol",
+    "description": "Amsterdam - Schiphol (AMS), Netherlands",
+    "coordinates": {
+      "latitude": 52.30833,
+      "longitude": 4.76806
+    },
+    "parent": {
+      "code": "AMS",
+      "name": "Amsterdam",
+      "description": "Amsterdam (AMS)",
+      "coordinates": {
+        "latitude": 52.31667,
+        "longitude": 4.78417
+      },
+      "parent": {
+        "code": "NL",
+        "name": "Netherlands",
+        "description": "Netherlands (NL)",
+        "coordinates": {
+          "latitude": 52.3,
+          "longitude": 5.45
+        },
+        "parent": {
+          "code": "NL",
+          "name": "Netherlands",
+          "description": "Netherlands (NL)",
+          "coordinates": {
+            "latitude": 52.3,
+            "longitude": 5.45
+          }
+        }
+      }
+    }
+  }
+]
